@@ -29,7 +29,7 @@ export default {
         },
       },
       animation: {
-        moveAround : 'moveAround 2s infinite'
+        moveAround : 'moveAround 2s infinite linear'
       },
       boxShadow: {
         'light': '0px 0px 4px 4px rgba(0, 0, 0, .07)',
